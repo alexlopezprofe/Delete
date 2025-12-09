@@ -7,11 +7,9 @@ hkjflsfhklf
 
 <img width="1050" height="446" alt="image" src="https://github.com/user-attachments/assets/530bca78-5ae8-4f42-9804-1e044df687bd" />
 
-
-
-´´´
+```
 c:\iso
-´´´
+```
 
 
 
